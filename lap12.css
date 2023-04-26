@@ -1,0 +1,59 @@
+.header{
+    width: 100%;
+    height: 130pt;
+    background-color: rgb(255, 196, 0);
+    margin: -6pt 0pt 0pt -6pt;
+    padding: 0pt 6pt;   
+    display: flex;
+}
+.fb-icon{
+    margin-left: 150px;
+    margin-top: .5rem;
+}
+.ig-icon{
+    margin-left: 15px;
+    margin-top:.5rem ;
+}
+.pn-icon{
+    margin-left: 15px;
+    margin-top: .5rem;
+}
+.img{
+    max-width: 150px;
+    height: auto;
+    margin-left: 300pt;
+    margin-top: 6pt;
+}
+.gm-icon{
+    margin-left: 300pt;
+    margin-top: .5rem;
+}
+.me{
+    background-image: url(https://i.pinimg.com/originals/ed/83/a4/ed83a4cd98671f3223064039171b8982.jpg);
+    width: 100%;
+    height: 600pt;
+    margin: -4pt 0pt 0pt -4pt;
+    padding: 0pt 6pt 6pt 6pt ;
+}
+.img-1{
+    margin-top: .5rem;
+    width: 200px;
+    height: 200px;
+}
+.img-2{
+    margin-top: 1.5rem;
+    width: 200px;
+    height: 200px;
+    margin-bottom:  1pt;
+}
+.me-1{
+    margin-left: 1.5rem;
+    
+
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(235, 7, 7);
+    color: white;  
+  }
